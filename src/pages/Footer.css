@@ -1,0 +1,23 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #e7e5dd;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* margin-top: 100px; */
+}
+
+.footer img {
+    height: 30px;
+    margin: 0 30px;
+}
+
+.footer img:hover {
+    cursor: pointer;
+}
