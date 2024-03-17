@@ -24,6 +24,18 @@ const Home = () => {
                 biżuteria jest tak dopracowana i atrakcyjna dla naszych
                 klientów.
             </p>
+            <h2>Zagraj w wojnę i zdobądź kod rabatowy na zakupy!</h2>
+            <p>
+                Zagraj w naszą grę karcianą "Wojna" i zdobądź kod rabatowy na
+                zakupy w naszym sklepie. Gra jest dostępna na naszej stronie
+                internetowej. Zasady są proste: wygrywa osoba, która zdobędzie
+                więcej punktów. Graj i zdobądź kod rabatowy na zakupy w naszym
+                sklepie!
+            </p>
+            <a href="https://card-war.vercel.app/" className="game-link">
+                Kliknij mnie, aby zagrać w grę "Wojna"!{" "}
+            </a>
+
             <h2>Nasza historia</h2>
             <p>
                 Zaczęliśmy naszą przygodę z pasją do biżuterii i miłością do

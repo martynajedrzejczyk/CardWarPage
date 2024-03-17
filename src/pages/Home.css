@@ -20,3 +20,9 @@
     margin: 10px 0;
     align-self: center;
 }
+
+.game-link {
+    text-decoration: none;
+    color: black;
+    align-self: center;
+}
