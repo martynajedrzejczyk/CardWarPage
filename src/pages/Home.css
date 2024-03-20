@@ -22,9 +22,11 @@
 }
 
 .game-link {
+    margin: 10px 0;
     text-decoration: none;
-    color: black;
+    color: rgb(87, 78, 6);
     align-self: center;
+    font-size: xx-large;
 }
 
 .imgcontainer {
