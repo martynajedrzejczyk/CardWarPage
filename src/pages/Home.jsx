@@ -5,6 +5,12 @@ const Home = () => {
     return (
         <div className="home-container">
             <h1>Diamond Deck Designs</h1>
+            <div className="imgcontainer">
+                <img className="imgimg" src="karo/karo3.jpg" />
+                <img className="imgimg" src="kier/kier-2.jpg" />
+                <img className="imgimg" src="pik/pik2.jpg" />
+                <img className="imgimg" src="trefl/trefl2.jpg" />
+            </div>
             <h2>Kim jesteśmy?</h2>
             <p>
                 Jesteśmy miłośnikami biżuterii pasjonującymi się grą w karty. Na
